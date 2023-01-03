@@ -1,0 +1,67 @@
+body{
+    margin: 0%;
+}
+#youtube{
+    background-color: white;
+    height: auto;
+    width: 100%;
+    border: 5px solid #6666;
+    margin-bottom: 5px;
+}
+#youtube2{
+    background: red;
+    height: 55px;
+    width: auto;
+    border: 1px solid #6666;
+    margin-bottom: 5px;
+}
+#thanhcongcu{
+    list-style-type: none;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+#thanhcongcu li {
+    display: inline-block;
+    font-size: 20px;
+    padding: 20px;
+
+}
+
+#youtube3{
+    min-height: auto;
+    width: 25%;
+    border: 5px solid #6666;
+    float: right;
+    text-align: center;
+    margin-left: 20px;
+    margin-right: 5px;
+    margin-bottom: 5px;
+}
+
+#phiasauem{
+    min-height: 600px;
+    width: 1500px;
+    float: left;
+    border: 5px solid #6666;
+    margin-left: 20px;
+    margin-right: 5px;
+    margin-bottom: 5px;
+
+}
+#footer{
+  border: 5px solid #6666;
+  margin-bottom: 5px;
+  clear:both;
+  text-align: center;
+  margin-left: 20px;
+  margin-right: 5px;
+}
+#kaytran{
+    margin-left: 20px;
+    border: 5px solid #6666;
+    width: 1500px;
+    min-height: auto;
+    float: left;
+}
